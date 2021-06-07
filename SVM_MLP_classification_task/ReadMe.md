@@ -69,3 +69,6 @@ Second MLP uses Tanh activation.
         accuracy                           0.83        29
        macro avg       0.73      0.82      0.75        29
     weighted avg       0.87      0.83      0.84        29
+    
+ # Conclusion
+SVM with Radial Basis Function (RBF) is the most efficient to use for predictions in this dataset compared to the rest used. We can also verify from our findings that SVM performs better at prediction compared to Neural Networks (NN) approach. We can infer this is because SVM compares it’s data based more directly from the record; SVM retain training examples and have the ability to embed data into a higher-dimensional plane. NN learns through using weighted networks and is parametric, thus not as direct compared to SVM.
