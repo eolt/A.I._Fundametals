@@ -18,7 +18,7 @@ The first SVM uses linear kernel.
 
 ![Alt text](https://github.com/eolt/A.I._Fundametals/blob/c6a794980f3aac24103ecb1f196bb1eca706eaed/SVM_MLP_classification_task/plotted_confusion_matrix/SVM_linear.png)
 
-                   precision    recall  f1-score   support
+                     precision    recall  f1-score   support
               
                0       0.95      0.88      0.91        24
                1       0.57      0.80      0.67         5
@@ -32,7 +32,7 @@ Second SVM uses Radial Basis Function (RBF).
 
 ![Alt text](https://github.com/eolt/A.I._Fundametals/blob/c6a794980f3aac24103ecb1f196bb1eca706eaed/SVM_MLP_classification_task/plotted_confusion_matrix/SVM_rbf.png)
 
-           precision    recall  f1-score   support
+                     precision    recall  f1-score   support
 
                0       1.00      0.92      0.96        24
                1       0.71      1.00      0.83         5
@@ -47,7 +47,7 @@ The first MLP uses logistic/sigmoid activation.
 
 ![Alt text](https://github.com/eolt/A.I._Fundametals/blob/c6a794980f3aac24103ecb1f196bb1eca706eaed/SVM_MLP_classification_task/plotted_confusion_matrix/MLP_logistic.png)
 
-          precision    recall  f1-score   support
+                     precision    recall  f1-score   support
 
                0       0.95      0.88      0.91        24
                1       0.57      0.80      0.67         5
@@ -59,4 +59,13 @@ The first MLP uses logistic/sigmoid activation.
 
 Second MLP uses Tanh activation.
 
-![Alt text](https://github.com/eolt/A.I._Fundametals/blob/c6a794980f3aac24103ecb1f196bb1eca706eaed/SVM_MLP_classification_task/plotted_confusion_matrix/MLP_Tanh.png)
+![Alt text](https://github.com/eolt/A.I._Fundametals/blob/61347fd7e6cb769e51cd2a932f9e1f281d584e9d/SVM_MLP_classification_task/plotted_confusion_matrix/MLP_tanh.png)
+
+                    precision    recall  f1-score   support
+
+              -1       0.95      0.83      0.89        24
+               1       0.50      0.80      0.62         5
+
+        accuracy                           0.83        29
+       macro avg       0.73      0.82      0.75        29
+    weighted avg       0.87      0.83      0.84        29
