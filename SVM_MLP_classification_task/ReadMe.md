@@ -4,6 +4,8 @@ Practice task for machine learning which implement Support Vector Machine and Mu
 
 
 # Intro 
-Support Vector Machine (SVM) and Multilayer Perception (MLP) are both fundamentally used for data classification. Both algorithms use a kernel functions for improving accuracy in there classifications. The type of kernel functions vary and can be determined by the user of the program. 
+Support Vector Machine (SVM) and Multilayer Perception (MLP) are both fundamentally used for data classification. Both algorithms use kernel functions for improving accuracy in there classifications. The type of kernel functions vary and can be determined by the user of the program. 
+
+This task uses a Heart failure clinical records dataset from the UCI Machine Learning Repository. The goal of this task is to learn binary classification models that distinguish the two classes (in this case mortality event or not).
 
 
