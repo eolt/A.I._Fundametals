@@ -16,7 +16,16 @@ I took the liberty of separating the ploting and training algorithms in separate
 # Outcome 
 The first SVM uses linear kernel. 
 
+![Alt text](https://github.com/eolt/A.I._Fundametals/blob/c6a794980f3aac24103ecb1f196bb1eca706eaed/SVM_MLP_classification_task/plotted_confusion_matrix/SVM_linear.png)
 
+Second SVM uses Radial Basis Function (RBF).
 
+![Alt text](https://github.com/eolt/A.I._Fundametals/blob/c6a794980f3aac24103ecb1f196bb1eca706eaed/SVM_MLP_classification_task/plotted_confusion_matrix/SVM_rbf.png)
 
+The first MLP uses logistic/sigmoid activation.
 
+![Alt text](https://github.com/eolt/A.I._Fundametals/blob/c6a794980f3aac24103ecb1f196bb1eca706eaed/SVM_MLP_classification_task/plotted_confusion_matrix/MLP_logistic.png)
+
+Second MLP uses Tanh activation.
+
+![Alt text](https://github.com/eolt/A.I._Fundametals/blob/c6a794980f3aac24103ecb1f196bb1eca706eaed/SVM_MLP_classification_task/plotted_confusion_matrix/MLP_Tanh.png)
